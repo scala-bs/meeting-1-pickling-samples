@@ -1,4 +1,4 @@
-# Pickling Examples
+# Pickling Samples
 
 This repository holds two pickling examples.
 
